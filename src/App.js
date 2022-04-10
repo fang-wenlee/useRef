@@ -1,10 +1,10 @@
 import "./styles.css";
 import React from "react";
-import InputRef from "./InputRef";
+import Demo from "./comp.life.cycle";
 export default function App() {
   return (
     <div className="App">
-      <InputRef />
+      <Demo />
     </div>
   );
 }
